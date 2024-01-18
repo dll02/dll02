@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lingling Dai</h1>
-<h3 align="center">A passionate frontend developer from Chinese mainland or Hong Kong</h3>
+<h3 align="center">A passionate frontend developer from Chinese mainland | Hong Kong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dll02&label=Profile%20views&color=0e75b6&style=flat" alt="dll02" /> </p>
 

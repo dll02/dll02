@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dailingling_0@163.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/linglingdai2023](www.linkedin.com/in/linglingdai2023)
+
 
 - ⚡ Fun fact **Cool Coder**
 
